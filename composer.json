@@ -20,8 +20,8 @@
 	},
 	"autoload" : {
 		"psr-0" : {
-			"Nemke\\D3JSBundle" : ""
+			"Nemke\\FontAwesomeBundle" : ""
 		}
 	},
-	"target-dir" : "nemke/font-awesome-bundle"
+	"target-dir" : "Nemke/FontAwesomeBundle"
 }
