@@ -1,0 +1,27 @@
+{
+	"name" : "nemke/font-awesome-bundle",
+	"type" : "symfony-bundle",
+	"description" : "Font Awesome bundle for Symfony",
+	"keywords" : [
+		"font",
+		"awesome",
+		"symfony"
+	],
+	"homepage" : "https://fortawesome.github.io/Font-Awesome/",
+	"license" : "MIT",
+	"authors" : [{
+			"name" : "Nemanja Andrejevic",
+			"email" : "andrejevicnemanja@gmail.com",
+			"homepage" : "https://www.nmdesign.rs/"
+		}
+	],
+	"require" : {
+		"symfony/framework-bundle" : ">=2.1"
+	},
+	"autoload" : {
+		"psr-0" : {
+			"Nemke\\D3JSBundle" : ""
+		}
+	},
+	"target-dir" : "Nemke/font-awesome-bundle"
+}
